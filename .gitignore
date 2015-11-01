@@ -10,3 +10,4 @@ pom.xml.asc
 /out
 /.repl
 /docs/uberdoc.html
+/src/warning/generated.cljs
